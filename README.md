@@ -19,7 +19,7 @@
 
 - 👩‍💻 Know me more <a href="https://ramakrishna-v.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
-- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sksunidhi2019@gmail.com" style="text-decoration: none;">Email</a>
+- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ramakrishnaveer@gmail.com" style="text-decoration: none;">Email</a>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -33,7 +33,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,django,gcp,docker,git,github,linux,postman,xd" />
+    <img src="https://skillicons.dev/icons?i=fastapi,django,git,github,linux,postman" />
   </a>
 </p>
 
@@ -43,7 +43,10 @@
   
 ### 📊 GitHub Stats:
 
-
+![sunidhi014's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunidhi014&theme=radical&hide_border=false)<br/>
+![sunidhi014's Stats](https://github-readme-stats.vercel.app/api?username=sunidhi014&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
+![sunidhi014's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhi014&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
+[![](https://visitcount.itsvg.in/api?id=sunidhi014&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
