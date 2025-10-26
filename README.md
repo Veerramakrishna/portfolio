@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src=" " alt="coding">
+  <img width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBleGdkdTNyaWRmZWVlemJrZHkzNzJ5bXF3MG8zbHYzd3AyaG1xYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ramakrishna v</h1>
@@ -41,15 +41,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-### 📊 GitHub Stats:
 
-![sunidhi014's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunidhi014&theme=radical&hide_border=false)<br/>
-![sunidhi014's Stats](https://github-readme-stats.vercel.app/api?username=sunidhi014&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
-![sunidhi014's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhi014&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
-[![](https://visitcount.itsvg.in/api?id=sunidhi014&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
   
 ### 📬 Reach me out:
 <p align="left">
