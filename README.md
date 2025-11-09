@@ -19,7 +19,7 @@
 
 - 👩‍💻 Know me more <a href="https://ramakrishna-v.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
-- 👩‍💻 ai agent : <a href="https:https://ai.studio/apps/drive/1hM4LTJ5BAkXBG3hLmpj_6vrsjUs3-aX1/" style="text-decoration: none;">Ai Wizard app </a
+- 👩‍💻 ai agent : <a href="https:https://ai.studio/apps/drive/1hM4LTJ5BAkXBG3hLmpj_6vrsjUs3-aX1/" style="text-decoration: none;">Ai Wizard app </a>
 
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ramakrishnaveer@gmail.com" style="text-decoration: none;">Email</a>
